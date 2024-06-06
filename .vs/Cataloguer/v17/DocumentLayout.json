@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\30100\\source\\repos\\Catalog-Master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E699ECE-1134-495C-B870-36513F36BC83}|Cataloguer\\Cataloguer.csproj|C:\\Users\\30100\\source\\repos\\Catalog-Master\\cataloguer\\shoppingcartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E699ECE-1134-495C-B870-36513F36BC83}|Cataloguer\\Cataloguer.csproj|solutionrelative:cataloguer\\shoppingcartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E699ECE-1134-495C-B870-36513F36BC83}|Cataloguer\\Cataloguer.csproj|c:\\users\\30100\\source\\repos\\catalog-master\\cataloguer\\shoppingcartform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E699ECE-1134-495C-B870-36513F36BC83}|Cataloguer\\Cataloguer.csproj|solutionrelative:cataloguer\\shoppingcartform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E699ECE-1134-495C-B870-36513F36BC83}|Cataloguer\\Cataloguer.csproj|C:\\Users\\30100\\source\\repos\\Catalog-Master\\cataloguer\\shoppingcartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E699ECE-1134-495C-B870-36513F36BC83}|Cataloguer\\Cataloguer.csproj|solutionrelative:cataloguer\\shoppingcartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E699ECE-1134-495C-B870-36513F36BC83}|Cataloguer\\Cataloguer.csproj|C:\\Users\\30100\\source\\repos\\Catalog-Master\\cataloguer\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E699ECE-1134-495C-B870-36513F36BC83}|Cataloguer\\Cataloguer.csproj|solutionrelative:cataloguer\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E699ECE-1134-495C-B870-36513F36BC83}|Cataloguer\\Cataloguer.csproj|c:\\users\\30100\\source\\repos\\catalog-master\\cataloguer\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E699ECE-1134-495C-B870-36513F36BC83}|Cataloguer\\Cataloguer.csproj|solutionrelative:cataloguer\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E699ECE-1134-495C-B870-36513F36BC83}|Cataloguer\\Cataloguer.csproj|C:\\Users\\30100\\source\\repos\\Catalog-Master\\cataloguer\\avtoradminformcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E699ECE-1134-495C-B870-36513F36BC83}|Cataloguer\\Cataloguer.csproj|solutionrelative:cataloguer\\avtoradminformcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E699ECE-1134-495C-B870-36513F36BC83}|Cataloguer\\Cataloguer.csproj|c:\\users\\30100\\source\\repos\\catalog-master\\cataloguer\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E699ECE-1134-495C-B870-36513F36BC83}|Cataloguer\\Cataloguer.csproj|solutionrelative:cataloguer\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E699ECE-1134-495C-B870-36513F36BC83}|Cataloguer\\Cataloguer.csproj|C:\\Users\\30100\\source\\repos\\Catalog-Master\\cataloguer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E699ECE-1134-495C-B870-36513F36BC83}|Cataloguer\\Cataloguer.csproj|solutionrelative:cataloguer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E699ECE-1134-495C-B870-36513F36BC83}|Cataloguer\\Cataloguer.csproj|C:\\Users\\30100\\source\\repos\\Catalog-Master\\cataloguer\\warehouseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E699ECE-1134-495C-B870-36513F36BC83}|Cataloguer\\Cataloguer.csproj|solutionrelative:cataloguer\\warehouseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E699ECE-1134-495C-B870-36513F36BC83}|Cataloguer\\Cataloguer.csproj|C:\\Users\\30100\\source\\repos\\Catalog-Master\\cataloguer\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E699ECE-1134-495C-B870-36513F36BC83}|Cataloguer\\Cataloguer.csproj|solutionrelative:cataloguer\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E699ECE-1134-495C-B870-36513F36BC83}|Cataloguer\\Cataloguer.csproj|C:\\Users\\30100\\source\\repos\\Catalog-Master\\cataloguer\\warehouseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E699ECE-1134-495C-B870-36513F36BC83}|Cataloguer\\Cataloguer.csproj|solutionrelative:cataloguer\\warehouseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E699ECE-1134-495C-B870-36513F36BC83}|Cataloguer\\Cataloguer.csproj|C:\\Users\\30100\\source\\repos\\Catalog-Master\\cataloguer\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E699ECE-1134-495C-B870-36513F36BC83}|Cataloguer\\Cataloguer.csproj|solutionrelative:cataloguer\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E699ECE-1134-495C-B870-36513F36BC83}|Cataloguer\\Cataloguer.csproj|C:\\Users\\30100\\source\\repos\\Catalog-Master\\cataloguer\\avtoradminformcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E699ECE-1134-495C-B870-36513F36BC83}|Cataloguer\\Cataloguer.csproj|solutionrelative:cataloguer\\avtoradminformcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E699ECE-1134-495C-B870-36513F36BC83}|Cataloguer\\Cataloguer.csproj|C:\\Users\\30100\\source\\repos\\Catalog-Master\\cataloguer\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E699ECE-1134-495C-B870-36513F36BC83}|Cataloguer\\Cataloguer.csproj|solutionrelative:cataloguer\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShoppingCartForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\30100\\source\\repos\\Catalog-Master\\Cataloguer\\ShoppingCartForm.cs",
+              "RelativeDocumentMoniker": "Cataloguer\\ShoppingCartForm.cs",
+              "ToolTip": "C:\\Users\\30100\\source\\repos\\Catalog-Master\\Cataloguer\\ShoppingCartForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "RelativeToolTip": "Cataloguer\\ShoppingCartForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-19T12:11:43.137Z",
+              "IsPinned": true,
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WareHouseForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\30100\\source\\repos\\Catalog-Master\\Cataloguer\\WareHouseForm.cs",
+              "RelativeDocumentMoniker": "Cataloguer\\WareHouseForm.cs",
+              "ToolTip": "C:\\Users\\30100\\source\\repos\\Cataloguer\\Cataloguer\\WareHouseForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\Cataloguer\\Cataloguer\\WareHouseForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T11:19:00.721Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WareHouseForm.cs",
+              "DocumentMoniker": "C:\\Users\\30100\\source\\repos\\Catalog-Master\\Cataloguer\\WareHouseForm.cs",
+              "RelativeDocumentMoniker": "Cataloguer\\WareHouseForm.cs",
+              "ToolTip": "C:\\Users\\30100\\source\\repos\\Catalog-Master\\Cataloguer\\WareHouseForm.cs",
+              "RelativeToolTip": "Cataloguer\\WareHouseForm.cs",
+              "ViewState": "AQIAAGYBAAAAAAAAAAAqwAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-19T12:54:05.439Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShoppingCartForm.cs",
+              "DocumentMoniker": "C:\\Users\\30100\\source\\repos\\Catalog-Master\\Cataloguer\\ShoppingCartForm.cs",
+              "RelativeDocumentMoniker": "Cataloguer\\ShoppingCartForm.cs",
+              "ToolTip": "C:\\Users\\30100\\source\\repos\\Catalog-Master\\Cataloguer\\ShoppingCartForm.cs*",
+              "RelativeToolTip": "Cataloguer\\ShoppingCartForm.cs*",
+              "ViewState": "AQIAAKgIAAAAAAAAAAAMwBAKAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-19T12:14:25.779Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShoppingCartForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\30100\\source\\repos\\Catalog-Master\\Cataloguer\\ShoppingCartForm.Designer.cs",
+              "RelativeDocumentMoniker": "Cataloguer\\ShoppingCartForm.Designer.cs",
+              "ToolTip": "C:\\Users\\30100\\source\\repos\\Catalog-Master\\Cataloguer\\ShoppingCartForm.Designer.cs*",
+              "RelativeToolTip": "Cataloguer\\ShoppingCartForm.Designer.cs*",
+              "ViewState": "AQIAAGkAAAAAAAAAAAArwHQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:37:03.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\30100\\source\\repos\\Catalog-Master\\Cataloguer\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "Cataloguer\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\30100\\source\\repos\\Catalog-Master\\Cataloguer\\LoginForm.Designer.cs",
+              "RelativeToolTip": "Cataloguer\\LoginForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:36:26.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "C:\\Users\\30100\\source\\repos\\Catalog-Master\\Cataloguer\\DataBase.cs",
+              "RelativeDocumentMoniker": "Cataloguer\\DataBase.cs",
+              "ToolTip": "C:\\Users\\30100\\source\\repos\\Catalog-Master\\Cataloguer\\DataBase.cs",
+              "RelativeToolTip": "Cataloguer\\DataBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAACEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-23T10:49:22.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\30100\\source\\repos\\Catalog-Master\\Cataloguer\\AdminForm.cs",
+              "RelativeDocumentMoniker": "Cataloguer\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\30100\\source\\repos\\Cataloguer\\Cataloguer\\AdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\Cataloguer\\Cataloguer\\AdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T06:26:06.287Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\30100\\source\\repos\\Catalog-Master\\Cataloguer\\Program.cs",
+              "RelativeDocumentMoniker": "Cataloguer\\Program.cs",
+              "ToolTip": "C:\\Users\\30100\\source\\repos\\Catalog-Master\\Cataloguer\\Program.cs",
+              "RelativeToolTip": "Cataloguer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwBIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-19T13:54:46.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\30100\\source\\repos\\Catalog-Master\\Cataloguer\\AdminForm.Designer.cs",
+              "RelativeDocumentMoniker": "Cataloguer\\AdminForm.Designer.cs",
+              "ToolTip": "C:\\Users\\30100\\source\\repos\\Catalog-Master\\Cataloguer\\AdminForm.Designer.cs",
+              "RelativeToolTip": "Cataloguer\\AdminForm.Designer.cs",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAkwKkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-23T20:57:28.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AvtorAdminFormcs.cs",
+              "DocumentMoniker": "C:\\Users\\30100\\source\\repos\\Catalog-Master\\Cataloguer\\AvtorAdminFormcs.cs",
+              "RelativeDocumentMoniker": "Cataloguer\\AvtorAdminFormcs.cs",
+              "ToolTip": "C:\\Users\\30100\\source\\repos\\Catalog-Master\\Cataloguer\\AvtorAdminFormcs.cs",
+              "RelativeToolTip": "Cataloguer\\AvtorAdminFormcs.cs",
+              "ViewState": "AQIAAKcAAAAAAAAAAAAMwLYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-23T20:54:24.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\30100\\source\\repos\\Catalog-Master\\Cataloguer\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Cataloguer\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\30100\\source\\repos\\Catalog-Master\\Cataloguer\\LoginForm.cs",
+              "RelativeToolTip": "Cataloguer\\LoginForm.cs",
+              "ViewState": "AQIAALIAAAAAAAAAAAAAAGYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-23T20:54:10.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AvtorAdminFormcs.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\30100\\source\\repos\\Catalog-Master\\Cataloguer\\AvtorAdminFormcs.cs",
+              "RelativeDocumentMoniker": "Cataloguer\\AvtorAdminFormcs.cs",
+              "ToolTip": "C:\\Users\\30100\\source\\repos\\Catalog-Master\\Cataloguer\\AvtorAdminFormcs.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Cataloguer\\AvtorAdminFormcs.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-22T10:32:22.638Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\30100\\source\\repos\\Catalog-Master\\Cataloguer\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Cataloguer\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\30100\\source\\repos\\Catalog-Master\\Cataloguer\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Cataloguer\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-23T20:54:09.128Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
